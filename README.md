@@ -1,0 +1,1 @@
+# clksz-anti-adblock-fix
