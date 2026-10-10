@@ -27,6 +27,18 @@ This is a workaround, not an official ClkSz component. It modifies DOM methods a
 
 To troubleshoot, open DevTools Console and look for `[ClkSz fix]` messages. Disable the script and reload if you encounter page instability.
 
+## Educational purpose and legal disclaimer
+
+This project is shared **for educational and research purposes**, including learning about browser userscripts, DOM inspection, Shadow DOM, iframe JavaScript contexts and client-side interface customisation.
+
+It is an independent, unofficial project and is **not affiliated with, endorsed by or sponsored by ClkSz, Brave, Cloudflare or Violentmonkey**.
+
+The script changes how certain elements are displayed in the user's own browser. It is **not a guarantee of access**, does not authorise access to restricted resources, and must not be used to compromise security, evade authentication, impersonate others or access systems or information without permission.
+
+Users are responsible for assessing and complying with the **laws applicable in their jurisdiction**, as well as relevant website terms and policies. Anti-circumvention and computer-misuse rules differ between jurisdictions and factual circumstances. Describing a project as educational does **not** create a legal exemption or make otherwise unlawful conduct lawful.
+
+The code is provided **as is**, without warranty or assurances of legality, compatibility or continued operation. Review the source before installing it. Disable the userscript if it causes unexpected behaviour.
+
 ## Version
 
 Current: **v1.7**. The userscript itself is maintained in [`clksz-anti-adblock-fix.user.js`](clksz-anti-adblock-fix.user.js).
